@@ -49,9 +49,6 @@
 
 ![Screenshot_6](https://github.com/mohammadrakibulhasan/Dashboard/assets/58723960/5fe44328-5c63-4053-8e79-a240e9f62d75)
 
-## Dasbboard -13 ()
-
-![Screenshot_7](https://github.com/mohammadrakibulhasan/Dashboard/assets/58723960/d76db44e-a674-44a2-82a6-d426904897f1)
 
 
 
